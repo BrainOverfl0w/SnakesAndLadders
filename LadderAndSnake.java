@@ -1,8 +1,7 @@
 
 // **************************************************************************************
 // Assignment #1
-// Question: 
-// Written by: Zayneb Mehdi 40109417
+// Written by: Zayneb Mehdi 
 // **************************************************************************************
 import java.util.Random;
 import java.util.Scanner;
